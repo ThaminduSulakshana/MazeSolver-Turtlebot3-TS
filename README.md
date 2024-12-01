@@ -21,3 +21,7 @@ This repository contains the implementation for the IE4060 Robotics and Intellig
 
 ### License
 [MIT License](LICENSE)
+
+## 👤 Author
+- **Thamindu Sulakshana** - [LinkedIn](https://www.linkedin.com/in/thamindu-sulakshana-232a39216/)  
+  *For questions or support, please reach out via the repository's issues tab.*
